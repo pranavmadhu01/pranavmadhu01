@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Pranav Madhu</h1>
+<h1 align="center">Hi 👋, I'm Pranav Madhu</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmadhu01&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmadhu01" /> </p>
@@ -23,6 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavmadhu01&show_icons=true&locale=en" alt="pranavmadhu01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavmadhu01&" alt="pranavmadhu01" /></p> -->
-[Metrics](https://metrics.lecoq.io/pranavmadhu01?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&lines=1&notable=1&introduction=1&code=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=A&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=Asia%2FCalcutta)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavmadhu01&" alt="pranavmadhu01" /></p>
+
 
