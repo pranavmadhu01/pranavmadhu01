@@ -10,6 +10,8 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **pranavmadhu73@gmail.com**
+<br>
+<br>
 
 
 
@@ -20,6 +22,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavmadhu01&" alt="pranavmadhu01" /></p>
 </div>
+
+<br>
+<br>
 
 
 
@@ -37,17 +42,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 
 
@@ -57,6 +53,9 @@
 <a href="https://www.codechef.com/users/p_ranav_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="p_ranav_12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranavmadhu73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranavmadhu73" height="30" width="40" /></a>
 </p>
+
+<br>
+<br>
 
 
 <h3 align="left">Support:</h3>
