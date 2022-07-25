@@ -38,15 +38,8 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavmadhu01&show_icons=true&locale=en&layout=compact" alt="pranavmadhu01" /></p>
 
-<br>
-<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranav-madhu-a292a4200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-madhu-a292a4200" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/p_ranav_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="p_ranav_12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranavmadhu73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranavmadhu73" height="30" width="40" /></a>
-</p>
+
 
 
 </div>
@@ -59,3 +52,17 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pranavmadhK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavmadhK" /></a></p>
+
+<div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pranav-madhu-a292a4200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-madhu-a292a4200" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/p_ranav_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="p_ranav_12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pranavmadhu73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranavmadhu73" height="30" width="40" /></a>
+</p>
+
+
+
+
+</div>
