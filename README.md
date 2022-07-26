@@ -11,9 +11,10 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **pranavmadhu73@gmail.com**
-<br>
+
+
 ![Metrics](/github-metrics.svg)
-<br>
-<p><a href="https://www.buymeacoffee.com/pranavmadhK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavmadhK" /></a></p>
+
+<!-- <p><a href="https://www.buymeacoffee.com/pranavmadhK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavmadhK" /></a></p> -->
 
 
