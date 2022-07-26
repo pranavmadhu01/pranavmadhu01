@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGjsLxRrXLvwQ/profile-displaybackgroundimage-shrink_200_800/0/1652595808009?e=1664409600&v=beta&t=WXVfd5q9Xt9fZBlDgd4ScURkp1E3e5gqCFutASr_8HM" style="width:100%;height:200px;object-fit:cover;">
+<!-- <img src="https://media-exp1.licdn.com/dms/image/C5616AQGjsLxRrXLvwQ/profile-displaybackgroundimage-shrink_200_800/0/1652595808009?e=1664409600&v=beta&t=WXVfd5q9Xt9fZBlDgd4ScURkp1E3e5gqCFutASr_8HM" style="width:100%;height:200px;object-fit:cover;">
 <h1 align="left">Hi 👋, I'm Pranav Madhu</h1>
 <h3 align="left">I'm a self-taught web-dev and hackathon lover</h3>
 
@@ -54,4 +54,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pranavmadhK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavmadhK" /></a></p>
 
-</div>
+</div> -->
+![Metrics](https://metrics.lecoq.io/pranavmadhu01?template=classic&isocalendar=1&languages=1&rss=1&introduction=1&lines=1&notable=1&achievements=1&code=1&followup=1&activity=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&followup.archived=true&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&rss.limit=4&config.timezone=Asia%2FCalcutta)
