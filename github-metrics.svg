@@ -419,14 +419,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="411.24222966983274" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="411.24222966983274" y="0" width="22.384361788290867" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="433.6265914581236" y="0" width="18.28860992024843" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="451.915201378372" y="0" width="3.912520863419484" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.8277222417915" y="0" width="2.8623557133942175" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.69007795518576" y="0" width="0.888850010661139" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="459.5789279658469" y="0" width="0.39394665993934475" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.97287462578623" y="0" width="0.027125374213789813" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="411.2098326796824" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="411.2098326796824" y="0" width="22.37952878569295" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="433.58936146537536" y="0" width="18.284661230529565" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="451.8740226959049" y="0" width="3.911676111906077" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.785698807811" y="0" width="2.9046619723533973" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.69036078016444" y="0" width="0.8886580992521244" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="459.57901887941654" y="0" width="0.39386160300321527" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9728804824198" y="0" width="0.027119517580248748" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3222,7 +3222,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 2 Aug 2022, 12:39:52
+                            On 2 Aug 2022, 12:55:22
                         </div>
                     </section>
                 </div>
@@ -3232,13 +3232,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            added the code for the entire user count
+                            added entire user count
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">40ac4f23</span>
+                            <span class="code">0556a5ee</span>
                             <span class="code">src/components/Msgdisplay/Msgdisplay.js</span>
                             <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--2</span></span>
                         </div>
@@ -3254,7 +3254,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2022, 13:39:30 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 4 Aug 2022, 14:36:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
