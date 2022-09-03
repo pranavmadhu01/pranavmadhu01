@@ -3,7 +3,7 @@
 <h3 align="left">I'm a self-taught web-dev and hackathon lover</h3>
 
 
-- 🔭 I’m currently working on **World chat(Personal project)**
+- 🔭 I’m currently working on **developing an easy farm and share platform**
 
 - 🌱 I’m currently learning **Django, React**
 
