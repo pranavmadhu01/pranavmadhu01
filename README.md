@@ -1,7 +1,7 @@
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavmadhu01&theme=nord_dark)
 ### **About me**
 
-An enthusiastic and solution-oriented individual with 1-2 years of hands-on experience in application
-development and technology integration. I am committed to delivering innovative solutions as a valuable team player.
+`An enthusiastic and solution-oriented individual with 2 years of hands-on experience in application development and technology integration. I am committed to delivering innovative solutions as a valuable team player.`
 
 ### **Languages used**
 
@@ -22,4 +22,4 @@ development and technology integration. I am committed to delivering innovative 
 
 ### **Support me**
 
-<p><a href="https://www.buymeacoffee.com/pranavmadhK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="pranavmadhK" /></a></p>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pranavmadhK)
