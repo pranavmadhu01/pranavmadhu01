@@ -5,11 +5,11 @@
 
 ### **Languages used**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,sass,dart,go,c,java&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python,go,c&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **Frameworks and Libraries used**
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,express,tailwind,bootstrap,flask,fastapi,django,electron,flutter,sklearn&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,express,tailwind,bootstrap,flask,fastapi,flutter&theme=dark&perline=10)](https://skillicons.dev)
 
 ### **Others**
 
